@@ -1,6 +1,5 @@
-==================================================
+
 🏗️  SISTEMA DE DETECÇÃO DE RACHADURAS EM CONCRETO
-==================================================
 
 📋 INSTRUÇÕES:
 1. Faça upload do dataset 'Concrete Crack Images for Classification'
@@ -25,7 +24,4 @@
 - Acurácia, Precisão, Recall, F1-Score
 - Matriz de Confusão
 - Curvas de Treinamento
-==================================================
-=== PIPELINE COMPLETO DE EXEMPLO ===
 
-# 1. Carregar dataset
